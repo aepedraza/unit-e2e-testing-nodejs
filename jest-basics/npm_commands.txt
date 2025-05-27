@@ -1,0 +1,4 @@
+npm init -y
+npm i jest --save-dev
+npm install --save-dev @types/jest
+npm run test
